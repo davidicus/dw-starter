@@ -1,8 +1,8 @@
-# Node Module Boilerplate
+# DevWatch Starter Files Boilerplate
 
 ---
 
-The basic structure and files for creating node modules. To be used with [kick-init](https://www.npmjs.com/package/kick-init)
+The basic structure and files for creating a DevWatch blog. Pulled down by dw-cli.
 
 ## Travis publish to NPM
 

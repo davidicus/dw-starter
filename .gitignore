@@ -1,2 +1,8 @@
 node_modules
-yarn.lock
+www/bundle.js
+dist
+npm-debug.log
+.DS_Store
+public
+tmp
+docs

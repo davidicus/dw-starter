@@ -1,16 +1,20 @@
 {
-  "name": "module-name",
+  "name": "dw-starter",
   "version": "0.0.1",
-  "description": "",
+  "description": "A Node powered static site generator",
   "license": "MIT",
-  "repository": "davidicus/module-name",
+  "repository": "davidicus/dw-starter",
   "keywords": [
-    "files"
+    "files",
+    "starter",
+    "boilerplate",
+    "devwatch",
+    "static"
   ],
   "bugs": {
-    "url": "https://github.com/davidicus/module-name/issues"
+    "url": "https://github.com/davidicus/dw-starter/issues"
   },
-  "homepage": "https://github.com/davidicus/module-name#readme",
+  "homepage": "https://github.com/davidicus/dw-starter#readme",
   "author": "David Conner <david@david-conner.com> (http://david-conner.com)",
   "engines": {
     "node": ">=8"
