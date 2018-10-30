@@ -4,7 +4,6 @@
 */
 
 // Dependencies
-const index = require("./../");
 
 /////////////////////////////////////////////
 // Test index
