@@ -1,6 +1,6 @@
 {
   "name": "dw-starter",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A Node powered static site generator",
   "license": "MIT",
   "repository": "davidicus/dw-starter",
